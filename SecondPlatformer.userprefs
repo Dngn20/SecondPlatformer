@@ -1,15 +1,16 @@
 ﻿<Properties StartupConfiguration="{9E529B79-0C5B-47CC-8D02-7C52CDE82905}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="View/Level.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controller/Program.cs">
     <Files>
       <File FileName="Model/Gem.cs" Line="79" Column="74" />
-      <File FileName="Model/Player.cs" Line="159" Column="44" />
+      <File FileName="Model/Player.cs" Line="32" Column="18" />
       <File FileName="Model/Circle.cs" Line="1" Column="1" />
-      <File FileName="Model/Enemy.cs" Line="1" Column="1" />
+      <File FileName="Model/Enemy.cs" Line="97" Column="61" />
       <File FileName="Controller/Game1.cs" Line="1" Column="1" />
-      <File FileName="Controller/PlatformerGame.cs" Line="1" Column="1" />
+      <File FileName="Controller/PlatformerGame.cs" Line="94" Column="60" />
       <File FileName="View/AnimationPlayer.cs" Line="1" Column="1" />
       <File FileName="View/Animation.cs" Line="1" Column="1" />
-      <File FileName="View/Level.cs" Line="112" Column="71" />
+      <File FileName="View/Level.cs" Line="111" Column="27" />
+      <File FileName="Controller/Program.cs" Line="5" Column="9" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />

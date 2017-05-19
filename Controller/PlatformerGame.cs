@@ -77,7 +77,7 @@ namespace Platformer
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
             // Load fonts
-            hudFont = Content.Load<SpriteFont>("Fonts/Hud");
+			hudFont = Content.Load<SpriteFont>("Fonts/Hud(1).spritefont");
 
             // Load overlay textures
             winOverlay = Content.Load<Texture2D>("Overlays/you_win");

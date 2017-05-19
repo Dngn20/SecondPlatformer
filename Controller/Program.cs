@@ -2,6 +2,8 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using Platformer;
+
 #if MONOMAC
 using MonoMac.AppKit;
 using MonoMac.Foundation;
@@ -20,11 +22,11 @@ namespace SecondPlatformer
 	static class Program
 #endif
 	{
-		private static Game1 game;
+		private static PlatformerGame game;
 
 		internal static void RunGame()
 		{
-			game = new Game1();
+			game = new PlatformerGame();
 			game.Run();
 #if !__IOS__ && !__TVOS__
 			game.Dispose();
