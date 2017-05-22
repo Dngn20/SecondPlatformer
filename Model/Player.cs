@@ -147,9 +147,9 @@ namespace Platformer
             localBounds = new Rectangle(left, top, width, height);
 
             // Load sounds.            
-            killedSound = Level.Content.Load<SoundEffect>("SoundEffect/PlayerKilled");
-            jumpSound = Level.Content.Load<SoundEffect>("SoundEffectPlayerJump");
-            fallSound = Level.Content.Load<SoundEffect>("SoundEffect/PlayerFall");
+            killedSound = Level.Content.Load<SoundEffect>("Sounds/PlayerKilled");
+            jumpSound = Level.Content.Load<SoundEffect>("Sounds/PlayerJump");
+            fallSound = Level.Content.Load<SoundEffect>("Sounds/PlayerFall");
         }
 
         /// <summary>
@@ -227,7 +227,8 @@ namespace Platformer
                      keyboardState.IsKeyDown(Keys.Right) ||
                      keyboardState.IsKeyDown(Keys.D))
             {
-                movement = 1.0f;
+				movement = 1.0f;
+				
             }
 
             // Check if the player wants to jump.

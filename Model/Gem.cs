@@ -76,7 +76,7 @@ namespace Platformer
         {
             texture = Level.Content.Load<Texture2D>("Sprites/Gem");
             origin = new Vector2(texture.Width / 2.0f, texture.Height / 2.0f);
-            collectedSound = Level.Content.Load<SoundEffect>("SoundEffect/GemCollected");
+            collectedSound = Level.Content.Load<SoundEffect>("Sounds/GemCollected");
         }
 
         /// <summary>
