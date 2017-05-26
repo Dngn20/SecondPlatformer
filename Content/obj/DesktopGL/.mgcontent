@@ -19,11 +19,6 @@
     <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Sprites/MonsterB/Run.png</File>
     <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Sprites/MonsterD/Idle.png</File>
     <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Sprites/MonsterD/Run.png</File>
-    <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Sprites/Player/Celebrate.png</File>
-    <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Sprites/Player/Die.png</File>
-    <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Sprites/Player/Idle.png</File>
-    <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Sprites/Player/Jump.png</File>
-    <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Sprites/Player/Run.png</File>
     <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Tiles/BlockA0.png</File>
     <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Tiles/BlockA1.png</File>
     <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Tiles/BlockA2.png</File>
@@ -34,7 +29,6 @@
     <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Tiles/BlockB0.png</File>
     <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Tiles/BlockB1.png</File>
     <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Tiles/Exit.png</File>
-    <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Tiles/Platform.png</File>
     <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Fonts/Hud.spritefont</File>
     <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Sprites/Gem.png</File>
     <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Backgrounds/Layer1_1.png</File>
@@ -48,7 +42,13 @@
     <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Backgrounds/Layer0_0.png</File>
     <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Backgrounds/Layer0_1.png</File>
     <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Backgrounds/Layer0_2.png</File>
-    <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Sprites/MonsterA/Idle.png</File>
+    <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Tiles/Platform.png</File>
     <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Sprites/MonsterA/Run.png</File>
+    <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Sprites/MonsterA/Idle.png</File>
+    <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Sprites/Player/Die.png</File>
+    <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Sprites/Player/Idle.png</File>
+    <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Sprites/Player/Jump.png</File>
+    <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Sprites/Player/Run.png</File>
+    <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Sprites/Player/Celebrate.png</File>
   </SourceFiles>
 </SourceFileCollection>
