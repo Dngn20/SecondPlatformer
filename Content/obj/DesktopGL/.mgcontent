@@ -45,10 +45,10 @@
     <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Tiles/Platform.png</File>
     <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Sprites/MonsterA/Run.png</File>
     <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Sprites/MonsterA/Idle.png</File>
-    <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Sprites/Player/Die.png</File>
+    <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Sprites/Player/Celebrate.png</File>
     <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Sprites/Player/Idle.png</File>
     <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Sprites/Player/Jump.png</File>
     <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Sprites/Player/Run.png</File>
-    <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Sprites/Player/Celebrate.png</File>
+    <File>/Users/dngu9879/Documents/Game Dev/SecondPlatformer/Content/Sprites/Player/Die.png</File>
   </SourceFiles>
 </SourceFileCollection>

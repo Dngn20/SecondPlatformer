@@ -87,3 +87,4 @@
 /Users/dngu9879/Documents/Game Dev/SecondPlatformer/bin/Debug/Content/Backgrounds/Layer2_2.xnb
 /Users/dngu9879/Documents/Game Dev/SecondPlatformer/bin/Debug/Content/Sprites/MonsterC/SlimeIdle.xnb
 /Users/dngu9879/Documents/Game Dev/SecondPlatformer/bin/Debug/Content/Sprites/MonsterC/SlimeRun.xnb
+/Users/dngu9879/Documents/Game Dev/SecondPlatformer/bin/Debug/Content/Sprites/Player/Dies.xnb

@@ -461,7 +461,7 @@
 /processorParam:TextureFormat=Color
 /build:Sprites/MonsterA/Idle.png
 
-#begin Sprites/Player/Die.png
+#begin Sprites/Player/Celebrate.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -471,7 +471,7 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Sprites/Player/Die.png
+/build:Sprites/Player/Celebrate.png
 
 #begin Sprites/Player/Idle.png
 /importer:TextureImporter
@@ -509,7 +509,7 @@
 /processorParam:TextureFormat=Color
 /build:Sprites/Player/Run.png
 
-#begin Sprites/Player/Celebrate.png
+#begin Sprites/Player/Die.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -519,5 +519,5 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Sprites/Player/Celebrate.png
+/build:Sprites/Player/Die.png
 
